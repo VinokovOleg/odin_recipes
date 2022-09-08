@@ -27,7 +27,7 @@ a{
   align-items: center;
 }
 
-img{
+.img-2{
   background-size: cover;
   margin-left: auto;
   margin-right: auto;
@@ -36,7 +36,24 @@ img{
   border: 3px solid white;
   border-radius: 24px;
 }
-
+.img-3{
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    display: block;
+    border: 3px solid white;
+    border-radius: 24px;
+}
+.img-4{
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    display: block;
+    border: 3px solid white;
+    border-radius: 24px;
+}
 .logo{
     background-size: cover;
     margin-left: auto;
